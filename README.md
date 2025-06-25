@@ -19,11 +19,10 @@ The `.pcap` and `.kml` files used in this project are **not included** in this r
 - **Google Earth** – visualization of `.kml` geolocation output  
 
 ## 📁 Project Structure
-
 network-geo-mapper/
-├── ip_mapper.py # Main Python script
-├── .gitignore # Excludes private files from repo
-└── README.md # Project documentation
+├── ip_mapper.py     # Main Python script
+├── .gitignore       # Excludes private files from repo
+└── README.md        # Project documentation
 
 
 ## ▶️ Usage

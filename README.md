@@ -18,13 +18,6 @@ The `.pcap` and `.kml` files used in this project are **not included** in this r
 - **GeoLiteCity** – offline IP-to-location mapping  
 - **Google Earth** – visualization of `.kml` geolocation output  
 
-## 📁 Project Structure
-network-geo-mapper/
-├── ip_mapper.py     # Main Python script 
-├── .gitignore       # Excludes private files from repo 
-└── README.md        # Project documentation 
-
-
 ## ▶️ Usage
 
 Place a `.pcap` file named `wire.pcap` in the project folder and make sure `GeoLiteCity.dat` is available. Run the script using Python, and it will generate an `output.kml` file showing the geolocated IP connections, which can be viewed in Google Maps.
